@@ -1,0 +1,57 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "avatar_url": "https://images.unsplash.com/photo-1548690312-e3b507d8c110?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "name": "Dona Florinda",
+      "email": "donaflorinda@gmail.com",
+      "birth": 795657600000,
+      "gender": "F",
+      "blood": "O+",
+      "weight": "65",
+      "height": "165"
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1610554843876-9be9b896b2d2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "name": "Sr. Barriga",
+      "email": "srbarriga@gmail.com",
+      "birth": 495072000000,
+      "gender": "M",
+      "blood": "AB+",
+      "weight": "80",
+      "height": "178"
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://images.unsplash.com/photo-1554344728-77cf90d9ed26?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "name": "Kiko",
+      "email": "kiko@gmail.com",
+      "birth": 758073600000,
+      "gender": "M",
+      "blood": "O+",
+      "weight": "80",
+      "height": "178"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "name": "Chaves",
+      "birth": 758073600000,
+      "gender": "M",
+      "services": "Musculação, Crossfit",
+      "created_at": 1637882643932
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1594381898411-846e7d193883?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "name": "Chiquinha",
+      "birth": 625795200000,
+      "gender": "F",
+      "services": "Natação, Musculação",
+      "created_at": 1637882695823
+    }
+  ]
+}
